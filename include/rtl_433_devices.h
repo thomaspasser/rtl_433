@@ -261,6 +261,7 @@
     DECL(fineoffset_wh55) \
     DECL(tpms_bmw) \
     DECL(watts_thermostat) \
+    DECL(uponor_smatrix) \
     DECL(thermor) \
     DECL(mueller_hotrod) \
     DECL(thermopro_tp28b) \
